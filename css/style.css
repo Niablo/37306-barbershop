@@ -6,16 +6,16 @@ body {
 }
 
 body {
-font-size: 14px;
-line-height:normal;
-font-family: sans-serif;
+  font-size: 14px;
+  line-height:normal;
+  font-family: sans-serif;
 }
 
 .container {
-background-color: #f5be7a;
-width: 940px;
-padding: 0 10px;
-margin: 0 auto;
+  background-color: #f5be7a;
+  width: 940px;
+  padding: 0 10px;
+  margin: 0 auto;
 }
 
  .logo {
@@ -54,9 +54,9 @@ margin: 0 auto;
 }
 
 form  {
-float: left;
-width: 220px;
-background-color: #e5a9f7;
+  float: left;
+  width: 220px;
+  background-color: #e5a9f7;
 }
 
 .top {
@@ -71,38 +71,62 @@ background-color: #e5a9f7;
 }
 
 .btn {
-margin-top: 50px;
-float: left;
+  margin-top: 50px;
+  float: left;
 }
 
 .catalog-item {
-width: 220px;
-height: 286px;
-margin-left: 10px;
-margin-right: 10px;
-margin-bottom: 20px;
+  width: 220px;
+  height: 286px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
 }
 
 .catalog-item-1, .catalog-item-2, .catalog-item-4, .catalog-item-5 {
-float: left;
+  float: left;
 }
 
 .catalog-item-3, .catalog-item-6 {
-float: right;
-margin-right: 0px;
+  float: right;
+  margin-right: 0px;
 }
 
 .price {
-float: left;
+  float: left;
 }
 
 .btn-price {
-float: right;
+  float: right;
 }
 
 .pages {
-clear: both;
-margin-top: 45px;
+  clear: both;
+  margin-top: 45px;
+}
+
+.small-image {
+  margin-top: 20px;
+}
+
+.img-1, .img-2 {
+  float: left;
+  margin-right: 20px;
+}
+
+.img-3 {
+  float: right;
+}
+
+.item-content-left {
+  background-color: #e5a9f7;
+  width: 460px;
+}
+
+.item-content-right {
+  background-color: #f7a9d7;
+  float: right;
+  width: 460px;
 }
 
 .main-footer {
